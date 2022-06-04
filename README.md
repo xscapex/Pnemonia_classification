@@ -1,4 +1,4 @@
-# Pnemonia_classification
+# Pneumonia_classification
 
 === 
 
